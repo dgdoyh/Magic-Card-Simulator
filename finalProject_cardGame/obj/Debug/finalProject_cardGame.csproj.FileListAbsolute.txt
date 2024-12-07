@@ -1,0 +1,13 @@
+C:\Users\b2uty\source\repos\finalProject_cardGame\finalProject_cardGame\bin\Debug\finalProject_cardGame.exe.config
+C:\Users\b2uty\source\repos\finalProject_cardGame\finalProject_cardGame\bin\Debug\finalProject_cardGame.exe
+C:\Users\b2uty\source\repos\finalProject_cardGame\finalProject_cardGame\bin\Debug\finalProject_cardGame.pdb
+C:\Users\b2uty\source\repos\finalProject_cardGame\finalProject_cardGame\obj\Debug\finalProject_cardGame.csproj.AssemblyReference.cache
+C:\Users\b2uty\source\repos\finalProject_cardGame\finalProject_cardGame\obj\Debug\finalProject_cardGame.Form1.resources
+C:\Users\b2uty\source\repos\finalProject_cardGame\finalProject_cardGame\obj\Debug\finalProject_cardGame.Properties.Resources.resources
+C:\Users\b2uty\source\repos\finalProject_cardGame\finalProject_cardGame\obj\Debug\finalProject_cardGame.csproj.GenerateResource.cache
+C:\Users\b2uty\source\repos\finalProject_cardGame\finalProject_cardGame\obj\Debug\finalProject_cardGame.csproj.CoreCompileInputs.cache
+C:\Users\b2uty\source\repos\finalProject_cardGame\finalProject_cardGame\obj\Debug\finalProject_cardGame.exe
+C:\Users\b2uty\source\repos\finalProject_cardGame\finalProject_cardGame\obj\Debug\finalProject_cardGame.pdb
+C:\Users\b2uty\source\repos\finalProject_cardGame\finalProject_cardGame\bin\Debug\DLL.dll
+C:\Users\b2uty\source\repos\finalProject_cardGame\finalProject_cardGame\bin\Debug\DLL.pdb
+C:\Users\b2uty\source\repos\finalProject_cardGame\finalProject_cardGame\obj\Debug\finalProject_cardGame.csproj.CopyComplete

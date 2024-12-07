@@ -1,0 +1,6 @@
+C:\Users\b2uty\source\repos\finalProject_cardGame\DLL\bin\Debug\DLL.dll
+C:\Users\b2uty\source\repos\finalProject_cardGame\DLL\bin\Debug\DLL.pdb
+C:\Users\b2uty\source\repos\finalProject_cardGame\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\b2uty\source\repos\finalProject_cardGame\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\b2uty\source\repos\finalProject_cardGame\DLL\obj\Debug\DLL.dll
+C:\Users\b2uty\source\repos\finalProject_cardGame\DLL\obj\Debug\DLL.pdb
